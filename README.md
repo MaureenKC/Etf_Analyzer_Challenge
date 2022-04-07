@@ -17,4 +17,4 @@ sqlalchemy
 ![ETF ANALYSIS WEB APP SCREENSHOT 6](Etf_Analyzer_Challenge/images/6.PNG)
 ![ETF ANALYSIS WEB APP SCREENSHOT 7](Etf_Analyzer_Challenge/images/7.PNG)
 ![ETF ANALYSIS WEB APP SCREENSHOT 8](Etf_Analyzer_Challenge/images/8.PNG)
-(Etf_Analyzer_Challenge/images/9.PNG)
+![ETF ANALYSIS WEB APP SCREENSHOT 9](Etf_Analyzer_Challenge/images/9.PNG)
